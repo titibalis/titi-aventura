@@ -1,0 +1,28 @@
+body{font-family: "Playfair Display", serif;
+color: rgb(243, 9, 9);
+background: rgb(1, 169, 247);
+display:flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+
+}
+
+button{
+color:rgb(55, 55, 243);
+background:rgb(137, 63, 235);
+font-family: "Playfair Display";
+font-size:25px;
+
+}
+
+.passo{
+display: none;
+
+}
+.passo.ativo{
+   display: block;
+
+}
+
+
